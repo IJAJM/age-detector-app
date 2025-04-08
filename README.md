@@ -1,5 +1,3 @@
-Here's a refined version of your README with improved structure, clarity, and additional sections:
-
 # Age Predictor Web App  
 **Face Detection + Dummy Age Estimation**  
 
