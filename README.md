@@ -25,8 +25,8 @@ A Flask web application that detects faces using OpenCV's Haar cascade and displ
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/yourusername/age-predictor-app.git
-   cd age-predictor-app
+   git clone https://github.com/yourusername/age-detector-app.git
+   cd age-detector-app
    ```
 
 2. **Setup Virtual Environment**
